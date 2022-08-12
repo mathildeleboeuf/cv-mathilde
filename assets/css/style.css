@@ -77,3 +77,7 @@ nav a:hover {
     height: 50%;
 }
 
+ p ~ img {
+    height: 50%;
+    width: 70%;
+ }
